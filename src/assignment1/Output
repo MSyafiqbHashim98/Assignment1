@@ -1,0 +1,17 @@
+Please enter movie genre (A=Action) (C=Comedy) : 
+a
+This is an action genre
+About this genre : is a film genre in which the protagonist or protagonists are thrust into a series of events that typically
+		include violence, extended fighting, physical feats, rescues and frantic chases.
+Example of action movie : Maze Runner
+The actor and actress of the movie : Dylan O'Brien and Kaya Scodelario
+BUILD SUCCESSFUL (total time: 2 seconds)
+
+Please enter movie genre (A=Action) (C=Comedy) : 
+c
+This is a comedy genre
+About this genre : is a category of film in which the main emphasis is on humor.
+Example of comedy movie : Grown Ups
+The actor and actress of the movie : Adam Sandler, Kevin James and Salma Hayek
+
+BUILD SUCCESSFUL (total time: 1 second)
